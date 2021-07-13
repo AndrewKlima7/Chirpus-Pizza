@@ -17,6 +17,8 @@ export class AppComponent {
   {menuItem: "Cinnamon Roll", category: "Dessert", price: 8.99}]
     }
 
+
+
     //this was my attempt on trying get it to list each item underneath the items category
     //I just returns a blank page it runs but shows nothing
     
